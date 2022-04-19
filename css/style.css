@@ -9,10 +9,10 @@ a.common-btn {
   width: 180px;
   height: 60px;
   font-size: 20px;
-  color: white;
+  color: red;
   line-height: 60px;
   border-radius: 5px;
-  background: #0055b8;
+  background: yellow;
   text-align: center;
 }
 /* 메인배너 */
